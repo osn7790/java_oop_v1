@@ -7,6 +7,12 @@ public class MainTest2 {
         Calc calc = new CompleteCalc();
         calc.add(10,20);
 
+
+
+
+
+
+
     }
 
 }
