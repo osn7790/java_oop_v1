@@ -1,4 +1,4 @@
-package _interface;
+package com._interface;
 
 public class MainTest2 {
 
@@ -6,11 +6,6 @@ public class MainTest2 {
 
         Calc calc = new CompleteCalc();
         calc.add(10,20);
-
-
-
-
-sdfwefwe
 
 
     }

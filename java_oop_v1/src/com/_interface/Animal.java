@@ -1,4 +1,4 @@
-package _interface;
+package com._interface;
 // HOW - interface 서언하면 된다.
 // 여기 안에 선언된 메서드는 모두 추상 메서드가 되어야 한다.
 // WHY

@@ -1,6 +1,4 @@
-package _interface;
-
-import com.dot.B;
+package com._interface;
 
 // 인터페이스는 구현받다, 구현하다.
 // Animal 인터페이스를 구현받다.
